@@ -1,4 +1,4 @@
-# # Service-Polymorphism
+# Service-Polymorphism
 
 Service Polymorphism is a nove SOA paradigm that improves web service QoS for distributed mobile users worldwide by sesrving dissimilarly. 
 
