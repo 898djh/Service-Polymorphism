@@ -1,6 +1,6 @@
 # Service-Polymorphism
 
-Service Polymorphism is a nove SOA paradigm that improves web service QoS for distributed mobile users worldwide by sesrving dissimilarly. 
+Service Polymorphism is a novel SOA paradigm that improves web service QoS for distributed mobile users worldwide by sesrving dissimilarly. 
 
 # Requirement
 - Android 11 Mobile Phone with normal CPU and Memory configuration
