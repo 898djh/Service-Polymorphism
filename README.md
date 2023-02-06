@@ -10,7 +10,7 @@ Service Polymorphism is a nove SOA paradigm that improves web service QoS for di
 
 # Usage Example
  
-        TranslationService ws = new TranslationService(this.getApplicationContext()); // create a Polymorphic Services
+        TranslationService ws = new TranslationService(this.getApplicationContext()); // create a Polymorphic Service
         ws.Input("Hello, World", "zh-CN", "en"); // assign the Polymorphic Services invoke parameters
         ws.init("Lat_Opt"); // initiate the Polymorphic Services
 
