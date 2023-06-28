@@ -3,7 +3,7 @@
 Service Polymorphism: Serving Clients Dissimilarly to Enhance Web Service Performance for Mobile Apps.
 
 # Requirement
-- Android 10 Mobile Phone with normal CPU and Memory configuration
+- Android 10 Mobile Phone with normal CPU and Memory configuration. Root permission is not required.
 - WiFi Router that supports to flash OpenWRT
 	- our implemenation is based on OpenWRT 21.02, but it is supposed to run on other versions
 - A Ubuntu 18.04 desktop PC as a resolver (Optional)
