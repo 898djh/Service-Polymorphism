@@ -1,9 +1,9 @@
 # Service-Polymorphism
 
-Service Polymorphism is a novel SOA paradigm that improves web service QoS for distributed mobile users worldwide by serving them dissimilarly. 
+Service Polymorphism: Serving Clients Dissimilarly to Enhance Web Service Performance for Mobile Apps.
 
 # Requirement
-- Android 11 Mobile Phone with normal CPU and Memory configuration
+- Android 10 Mobile Phone with normal CPU and Memory configuration
 - WiFi Router that supports to flash OpenWRT
 	- our implemenation is based on OpenWRT 21.02, but it is supposed to run on other versions
 - A Ubuntu 18.04 desktop PC as a resolver (Optional)
@@ -11,7 +11,7 @@ Service Polymorphism is a novel SOA paradigm that improves web service QoS for d
 # Usage Example
  
         TranslationService ws = new TranslationService(this.getApplicationContext()); // create a Polymorphic Service
-        ws.Input("Hello, World", "zh-CN", "en"); // assign the Polymorphic Services invoke parameters
+        ws.Input("Hello, World", "es"); // assign the Polymorphic Services invoke parameters
         ws.init("Lat_Opt"); // initiate the Polymorphic Services
 
         ws.exec(); // invoke Polymorphic Services 
