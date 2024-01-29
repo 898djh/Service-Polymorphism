@@ -1,6 +1,6 @@
 # Service-Polymorphism
 
-Service Polymorphism: Serving Clients Dissimilarly to Enhance Web Service Performance for Mobile Apps.
+Service Polymorphism: Enhancing Web Service Performance Perception by Serving Clients Dissimilarly
 
 # Requirement
 - Android 10 Mobile Phone with normal CPU and Memory configuration. Root permission is not required.
